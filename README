@@ -3,6 +3,9 @@ Tests&Sketches for the TI MSP430 Launchpad µC
 Copyright (c) 2011 invertednothing.
 http://invertednothing.com/
 
+If you are using this don't forget to setup the MSP430_DIR & MSPDEBUG_DIR 
+variables in the provided Makefiles!
+
 
 Official TI MSP430 LaunchPad resources 
 Official homepage – http://e2e.ti.com/group/msp430launchpad/w/default.aspx
