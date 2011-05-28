@@ -16,8 +16,12 @@
  #include <io.h>
  #include <signal.h>
 */
-
-#include <msp430x22x2.h>
+#include <math.h>
+#include <stdint.h>
+#include <io.h>
+#include <signal.h>
+#include <msp430/compa.h>
+#include <msp430/compb.h>
 
 
 
@@ -167,7 +171,7 @@ static void high(register unsigned int pin)
 		P2DIR |= pin;
 		P2OUT |= pin;
 	}
-	
+	/*
 	if (pin <= 32 && pin >= 17)
 	{
 		pin = pin - 16;
@@ -176,6 +180,7 @@ static void high(register unsigned int pin)
 		P3DIR |= pin;
 		P3OUT |= pin;
 	}
+	 */
 }
 
 
@@ -199,7 +204,7 @@ static void low(register unsigned int pin)
 		P2DIR |= pin;
 		P2OUT &= ~pin;
 	}
-	
+	/*
 	if (pin <= 32 && pin >= 17)
 	{
 		pin = pin - 16;
@@ -208,6 +213,7 @@ static void low(register unsigned int pin)
 		P3DIR |= pin;
 		P3OUT &= ~pin;
 	}
+	 */
 }
 
 //output
@@ -229,7 +235,7 @@ static void output(register unsigned int pin)
 		
 		P2DIR |= pin;
 	}
-	
+	/*
 	if (pin <= 32 && pin >= 17)
 	{
 		pin = pin - 16;
@@ -237,6 +243,7 @@ static void output(register unsigned int pin)
 		
 		P3DIR |= pin;
 	}
+	 */
 }
 
 //input
@@ -258,7 +265,7 @@ static void input(register unsigned int pin)
 		
 		P2DIR &= ~pin;
 	}
-	
+	/*
 	if (pin <= 32 && pin >= 17)
 	{
 		pin = pin - 16;
@@ -266,6 +273,7 @@ static void input(register unsigned int pin)
 		
 		P3DIR &= ~pin;
 	}
+	 */
 }
 
 //Read
@@ -278,10 +286,10 @@ static unsigned int read(register unsigned int pin)
 		
 	if (pin <= 16 && pin >= 8){
 		return (P2IN & bit(pin));}
-		
+	/*
 	if (pin <= 32 && pin >= 17){
 		return (P3IN & bit(pin));}
-		
+	*/	
 	return(0);
 }
 
@@ -479,11 +487,13 @@ static void compareConfig(register unsigned int ref, register unsigned int _shor
 	if (ref == VDDQUATER)
 		CACTL1 |= BIT4;
 		CACTL1 &= ~BIT5;
-		
+	
+	#if defined(__MSP430_HAS_CAPLUS__)
 	if (_short == YES)
 		CACTL2 |= CASHORT;
 		else
 			CACTL2 &= ~CASHORT;
+	#endif
 			
 	if (filter == FILTERON)
 		CACTL2 |= CAF;
@@ -491,7 +501,7 @@ static void compareConfig(register unsigned int ref, register unsigned int _shor
 			CACTL2 &= ~CAF;
 			
 }
-
+/*
 static unsigned int compare(register unsigned int pin1)
 {
 	pin1 = pin1 << 3;
@@ -499,11 +509,10 @@ static unsigned int compare(register unsigned int pin1)
 	
 	CACTL1 |= CAON;
 	
-	register unsigned int result=0;
+	register unsigned int result = 0;
 	
 	result = CACTL2 & CAOUT;
-	if (result > 0)
-	{
+	if (result > 0) {
 		CACTL1 &= ~CAON;
 		return (0);
 	}
@@ -513,5 +522,6 @@ static unsigned int compare(register unsigned int pin1)
 		return (1);
 	}
 }
+ */
 
 #endif /*EASYMSP081_*/

@@ -1,16 +1,59 @@
+/* LED p1.0 & p1.6 toggle example */
+
 #include "libraries/easymsp.h"
 
-void main(void)
+unsigned int status;
+unsigned int toggle;
+int counter;
+
+void main()
 {
-	easysetup(void); //Calling easysetup setups the MSP430 for use with EasyMSP. 
-	//It is required to call easysetup or EasyMSP will not work properly.
-	//easysetup() will automatically call your loop code.
+	stopwd();
+	setFreq(M8);
+	
+	output(0);
+	output(6);
+	input(3);
+	
+	status = 0;
+	toggle = 0;
+	counter = 0;
+	
+	while (1) 
+	{
+		loop();
+	}
 }
 
-void loop(void)
+void loop()
 {
-	makeHigh(0); //Make P1.0 High (Red LED)
-	delayMs(2300); //Pause 2300mS
-	makeLow(0); // Make P1.0 Low (Red LED)
-	delayMs(500); //Pause 500ms
+	status = read(3);
+	
+	if (status != toggle) 
+	{
+		if (status) 
+		{
+			counter++;
+		}
+	} 
+	
+	toggle = status;
+	
+	if (status) 
+	{
+		high(0);
+		delayms(50);
+		
+	} 
+	else
+	{
+		low(0);
+		delayms(50);
+	}
+	
+	if (counter % 2 == 0) {
+		high(6);
+	} else {
+		low(6);
+	}
 }
