@@ -9,26 +9,16 @@
 /* Begin PBXFileReference section */
 		940890C9138C44C400BEE3EA /* main.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
 		94089124138C49E200BEE3EA /* Makefile */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.make; path = Makefile; sourceTree = "<group>"; };
-		9412E4FB13911A2C004608CB /* easymsp.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = easymsp.h; path = libraries/easymsp.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
 		08FB7794FE84155DC02AAC07 /* xTernalBuild */ = {
 			isa = PBXGroup;
 			children = (
-				9412E4FA13911A25004608CB /* libraries */,
 				94089124138C49E200BEE3EA /* Makefile */,
 				940890C9138C44C400BEE3EA /* main.c */,
 			);
 			name = xTernalBuild;
-			sourceTree = "<group>";
-		};
-		9412E4FA13911A25004608CB /* libraries */ = {
-			isa = PBXGroup;
-			children = (
-				9412E4FB13911A2C004608CB /* easymsp.h */,
-			);
-			name = libraries;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */

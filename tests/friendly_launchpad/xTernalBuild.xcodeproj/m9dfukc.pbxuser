@@ -115,7 +115,7 @@
 				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
 				PBXFileTableDataSourceColumnWidthsKey = (
 					20,
-					485,
+					800,
 					60,
 					20,
 					48,
@@ -132,14 +132,14 @@
 					PBXFileDataSource_Warnings_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 328272547;
-			PBXWorkspaceStateSaveDate = 328272547;
+			PBXPerProjectTemplateStateSaveDate = 328276789;
+			PBXWorkspaceStateSaveDate = 328276789;
 		};
 		perUserProjectItems = {
+			9412E52E13911B33004608CB /* PBXTextBookmark */ = 9412E52E13911B33004608CB /* PBXTextBookmark */;
+			9449E64F13911B6600DDA948 /* PBXTextBookmark */ = 9449E64F13911B6600DDA948 /* PBXTextBookmark */;
 			94704FE5139108FA0030CC6E /* PBXTextBookmark */ = 94704FE5139108FA0030CC6E /* PBXTextBookmark */;
 			94A25686139112F200884CF3 /* PBXTextBookmark */ = 94A25686139112F200884CF3 /* PBXTextBookmark */;
-			94A25687139112F200884CF3 /* PBXTextBookmark */ = 94A25687139112F200884CF3 /* PBXTextBookmark */;
-			94A25688139112F200884CF3 /* PBXTextBookmark */ = 94A25688139112F200884CF3 /* PBXTextBookmark */;
 		};
 		sourceControlManager = 940890C7138C441A00BEE3EA /* Source Control */;
 		userBuildSettings = {
@@ -161,9 +161,9 @@
 	};
 	940890C9138C44C400BEE3EA /* main.c */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1018, 1644}}";
-			sepNavSelRange = "{3118, 0}";
-			sepNavVisRange = "{2903, 700}";
+			sepNavIntBoundsRect = "{{0, 0}, {1018, 433}}";
+			sepNavSelRange = "{280, 0}";
+			sepNavVisRange = "{0, 346}";
 		};
 	};
 	94089124138C49E200BEE3EA /* Makefile */ = {
@@ -172,6 +172,26 @@
 			sepNavSelRange = "{284, 0}";
 			sepNavVisRange = "{0, 646}";
 		};
+	};
+	9412E52E13911B33004608CB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 940890C9138C44C400BEE3EA /* main.c */;
+		name = "main.c: 102";
+		rLen = 0;
+		rLoc = 346;
+		rType = 0;
+		vrLen = 698;
+		vrLoc = 2903;
+	};
+	9449E64F13911B6600DDA948 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 940890C9138C44C400BEE3EA /* main.c */;
+		name = "main.c: 14";
+		rLen = 0;
+		rLoc = 280;
+		rType = 0;
+		vrLen = 346;
+		vrLoc = 0;
 	};
 	94704FC1139105950030CC6E /* friendly_launchpad.h */ = {
 		uiCtxt = {
@@ -199,26 +219,6 @@
 		rType = 0;
 		vrLen = 915;
 		vrLoc = 0;
-	};
-	94A25687139112F200884CF3 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 940890C9138C44C400BEE3EA /* main.c */;
-		name = "main.c: 10";
-		rLen = 0;
-		rLoc = 194;
-		rType = 0;
-		vrLen = 345;
-		vrLoc = 0;
-	};
-	94A25688139112F200884CF3 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 940890C9138C44C400BEE3EA /* main.c */;
-		name = "main.c: 102";
-		rLen = 0;
-		rLoc = 3118;
-		rType = 0;
-		vrLen = 700;
-		vrLoc = 2903;
 	};
 	D28A88AD04BDD90700651E21 /* build */ = {
 		activeExec = 0;

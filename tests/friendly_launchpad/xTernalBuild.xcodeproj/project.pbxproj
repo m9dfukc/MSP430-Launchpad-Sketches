@@ -41,7 +41,7 @@
 			buildPhases = (
 			);
 			buildToolPath = /usr/bin/make;
-			buildWorkingDirectory = /Users/m9dfukc/Desktop/xTernalBuild/;
+			buildWorkingDirectory = "";
 			dependencies = (
 			);
 			name = build;

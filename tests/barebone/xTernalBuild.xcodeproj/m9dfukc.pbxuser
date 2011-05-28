@@ -132,15 +132,13 @@
 					PBXFileDataSource_Warnings_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 328276500;
-			PBXWorkspaceStateSaveDate = 328276500;
+			PBXPerProjectTemplateStateSaveDate = 328276744;
+			PBXWorkspaceStateSaveDate = 328276744;
 		};
 		perUserProjectItems = {
-			9412E4FC13911A51004608CB /* PBXTextBookmark */ = 9412E4FC13911A51004608CB /* PBXTextBookmark */;
-			9412E50913911AD5004608CB /* PBXTextBookmark */ = 9412E50913911AD5004608CB /* PBXTextBookmark */;
-			9412E51213911AEA004608CB /* PBXTextBookmark */ = 9412E51213911AEA004608CB /* PBXTextBookmark */;
-			9412E51313911AEA004608CB /* PBXTextBookmark */ = 9412E51313911AEA004608CB /* PBXTextBookmark */;
-			94A25686139112F200884CF3 /* PBXTextBookmark */ = 94A25686139112F200884CF3 /* PBXTextBookmark */;
+			9412E4EE139119EF004608CB /* PBXTextBookmark */ = 9412E4EE139119EF004608CB /* PBXTextBookmark */;
+			9412E52213911B16004608CB /* PBXTextBookmark */ = 9412E52213911B16004608CB /* PBXTextBookmark */;
+			94704FE5139108FA0030CC6E /* PBXTextBookmark */ = 94704FE5139108FA0030CC6E /* PBXTextBookmark */;
 		};
 		sourceControlManager = 940890C7138C441A00BEE3EA /* Source Control */;
 		userBuildSettings = {
@@ -162,86 +160,46 @@
 	};
 	940890C9138C44C400BEE3EA /* main.c */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1018, 433}}";
-			sepNavSelRange = "{418, 0}";
-			sepNavVisRange = "{0, 418}";
+			sepNavIntBoundsRect = "{{0, 0}, {1018, 1540}}";
+			sepNavSelRange = "{2765, 0}";
+			sepNavVisRange = "{2580, 668}";
 		};
 	};
 	94089124138C49E200BEE3EA /* Makefile */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1018, 476}}";
-			sepNavSelRange = "{188, 0}";
-			sepNavVisRange = "{0, 586}";
+			sepNavIntBoundsRect = "{{0, 0}, {604, 627}}";
+			sepNavSelRange = "{284, 0}";
+			sepNavVisRange = "{0, 646}";
 		};
 	};
-	9412E4FB13911A2C004608CB /* easymsp.h */ = {
-		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1831, 6076}}";
-			sepNavSelRange = "{421, 6}";
-			sepNavVisRange = "{0, 1614}";
-		};
-	};
-	9412E4FC13911A51004608CB /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 9412E4FB13911A2C004608CB /* easymsp.h */;
-		name = "easymsp.h: 10";
-		rLen = 6;
-		rLoc = 421;
-		rType = 0;
-		vrLen = 1614;
-		vrLoc = 0;
-	};
-	9412E50913911AD5004608CB /* PBXTextBookmark */ = {
+	9412E4EE139119EF004608CB /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = 940890C9138C44C400BEE3EA /* main.c */;
-		name = "main.c: 16";
+		name = "main.c: 102";
 		rLen = 0;
-		rLoc = 418;
+		rLoc = 3248;
 		rType = 0;
-		vrLen = 418;
-		vrLoc = 0;
+		vrLen = 666;
+		vrLoc = 2582;
 	};
-	9412E51213911AEA004608CB /* PBXTextBookmark */ = {
+	9412E52213911B16004608CB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 940890C9138C44C400BEE3EA /* main.c */;
+		name = "main.c: 80";
+		rLen = 0;
+		rLoc = 2765;
+		rType = 0;
+		vrLen = 668;
+		vrLoc = 2580;
+	};
+	94704FE5139108FA0030CC6E /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = 94089124138C49E200BEE3EA /* Makefile */;
-		name = "Makefile: 8";
+		name = "Makefile: 11";
 		rLen = 0;
-		rLoc = 188;
+		rLoc = 284;
 		rType = 0;
-		vrLen = 586;
-		vrLoc = 0;
-	};
-	9412E51313911AEA004608CB /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 940890C9138C44C400BEE3EA /* main.c */;
-		name = "main.c: 16";
-		rLen = 0;
-		rLoc = 418;
-		rType = 0;
-		vrLen = 418;
-		vrLoc = 0;
-	};
-	94704FC1139105950030CC6E /* friendly_launchpad.h */ = {
-		isa = PBXFileReference;
-		fileEncoding = 4;
-		lastKnownFileType = sourcecode.c.h;
-		name = friendly_launchpad.h;
-		path = /Users/m9dfukc/Documents/Sketches/Launchpad/tests/easymsp/libraries/friendly_launchpad.h;
-		sourceTree = "<absolute>";
-		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1018, 708}}";
-			sepNavSelRange = "{264, 0}";
-			sepNavVisRange = "{0, 915}";
-		};
-	};
-	94A25686139112F200884CF3 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 94704FC1139105950030CC6E /* friendly_launchpad.h */;
-		name = "friendly_launchpad.h: 10";
-		rLen = 0;
-		rLoc = 264;
-		rType = 0;
-		vrLen = 915;
+		vrLen = 646;
 		vrLoc = 0;
 	};
 	D28A88AD04BDD90700651E21 /* build */ = {
