@@ -8,7 +8,7 @@ CXX				= $(MSP430_DIR)/msp430-g++
 OBJDUMP			= $(MSP430_DIR)/msp430-objdump
 SIZE			= $(MSP430_DIR)/msp430-size
 MSPDEBUG		= $(MSPDEBUG_DIR)/mspdebug
-CFLAGS			= -std=gnu99 -Os -Wall -g -mmcu=msp430x2012
+CFLAGS			= -Os -Wall -g -mmcu=msp430x2012
 
 OBJS=$(PROG).o
 

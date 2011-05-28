@@ -7,7 +7,19 @@
 #ifndef EASYMSP081_H
 #define EASYMSP081_H
 
-#include <msp430.h>
+//#include <msp430.h>
+
+/* oder vielleicht: 
+ #include <math.h>
+ 
+ #include <stdint.h>
+ #include <io.h>
+ #include <signal.h>
+*/
+
+#include <msp430x22x2.h>
+
+
 
 //Macro functions
 //-------------------------------------------------------------------------------------------------------------------

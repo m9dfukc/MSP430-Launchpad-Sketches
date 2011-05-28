@@ -6,7 +6,6 @@ http://invertednothing.com/
 If you are using this don't forget to setup the MSP430_DIR & MSPDEBUG_DIR 
 variables in the provided Makefiles!
 
-
 Official TI MSP430 LaunchPad resources 
 Official homepage – http://e2e.ti.com/group/msp430launchpad/w/default.aspx
 Wiki – http://processors.wiki.ti.com/index.php/MSP430_LaunchPad_(MSP-EXP430G2)
@@ -19,10 +18,14 @@ Friendly Launchpad – https://github.com/chrishulbert/friendly_launchpad
 Working with MacOs I'm using the following Open Source Toolchain
 mspgcc, mspdebug, ez430rf2500 – http://code.google.com/p/osx-launchpad/
 
+MspGCC manual
+http://mspgcc.sourceforge.net/manual/
+
 MSP430 related blogs
 http://www.msp430launchpad.com/
 http://www.43oh.com/
 http://osx-launchpad.blogspot.com/
+
 
 
 THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR

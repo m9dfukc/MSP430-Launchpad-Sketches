@@ -272,7 +272,8 @@
 							<key>PBXSmartGroupTreeModuleOutlineStateSelectionKey</key>
 							<array>
 								<array>
-									<integer>3</integer>
+									<integer>2</integer>
+									<integer>1</integer>
 									<integer>0</integer>
 								</array>
 							</array>
@@ -314,7 +315,7 @@
 								<key>PBXProjectModuleGUID</key>
 								<string>1CE0B20306471E060097A5F4</string>
 								<key>PBXProjectModuleLabel</key>
-								<string>Makefile</string>
+								<string>friendly_launchpad.h</string>
 								<key>PBXSplitModuleInNavigatorKey</key>
 								<dict>
 									<key>Split0</key>
@@ -322,16 +323,16 @@
 										<key>PBXProjectModuleGUID</key>
 										<string>1CE0B20406471E060097A5F4</string>
 										<key>PBXProjectModuleLabel</key>
-										<string>Makefile</string>
+										<string>friendly_launchpad.h</string>
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>9449E65B13911BFB00DDA948</string>
+										<string>9449E6A71391399C00DDA948</string>
 										<key>history</key>
 										<array>
-											<string>94A25686139112F200884CF3</string>
 											<string>9449E65913911BFB00DDA948</string>
-											<string>9449E65A13911BFB00DDA948</string>
+											<string>9449E6A51391399C00DDA948</string>
+											<string>9449E6A61391399C00DDA948</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -343,14 +344,14 @@
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
-								<string>{{0, 0}, {1079, 458}}</string>
+								<string>{{0, 0}, {1079, 451}}</string>
 								<key>RubberWindowFrame</key>
 								<string>37 139 1287 721 0 0 1440 878 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXNavigatorGroup</string>
 							<key>Proportion</key>
-							<string>458pt</string>
+							<string>451pt</string>
 						</dict>
 						<dict>
 							<key>ContentConfiguration</key>
@@ -363,14 +364,14 @@
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
-								<string>{{0, 463}, {1079, 217}}</string>
+								<string>{{0, 456}, {1079, 224}}</string>
 								<key>RubberWindowFrame</key>
 								<string>37 139 1287 721 0 0 1440 878 </string>
 							</dict>
 							<key>Module</key>
 							<string>XCDetailModule</string>
 							<key>Proportion</key>
-							<string>217pt</string>
+							<string>224pt</string>
 						</dict>
 					</array>
 					<key>Proportion</key>
@@ -389,9 +390,9 @@
 			</array>
 			<key>TableOfContents</key>
 			<array>
-				<string>9449E65C13911BFB00DDA948</string>
+				<string>9449E6A81391399C00DDA948</string>
 				<string>1CE0B1FE06471DED0097A5F4</string>
-				<string>9449E65D13911BFB00DDA948</string>
+				<string>9449E6A91391399C00DDA948</string>
 				<string>1CE0B20306471E060097A5F4</string>
 				<string>1CE0B20506471E060097A5F4</string>
 			</array>
@@ -530,7 +531,6 @@
 	<key>WindowOrderList</key>
 	<array>
 		<string>940890C5138C441A00BEE3EA</string>
-		<string>/Users/m9dfukc/Documents/Sketches/Launchpad/tests/friendly_launchpad/xTernalBuild.xcodeproj</string>
 	</array>
 	<key>WindowString</key>
 	<string>37 139 1287 721 0 0 1440 878 </string>
@@ -610,7 +610,7 @@
 			<key>TableOfContents</key>
 			<array>
 				<string>940890C5138C441A00BEE3EA</string>
-				<string>9449E65E13911BFB00DDA948</string>
+				<string>9449E6AA1391399C00DDA948</string>
 				<string>1CD0528F0623707200166675</string>
 				<string>XCMainBuildResultsModuleGUID</string>
 			</array>
