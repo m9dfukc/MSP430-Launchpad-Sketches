@@ -10,6 +10,7 @@ Official TI MSP430 LaunchPad resources
 Official homepage – http://e2e.ti.com/group/msp430launchpad/w/default.aspx
 Wiki – http://processors.wiki.ti.com/index.php/MSP430_LaunchPad_(MSP-EXP430G2)
 Userguide – http://focus.ti.com/lit/ug/slau318/slau318.pdf
+MSP430x2xx Datasheet – http://www.ti.com/lit/ug/slau144h/slau144h.pdf
 
 Using the following (Arduino like) libraries
 EasyMSP – http://code.google.com/p/easymsp
