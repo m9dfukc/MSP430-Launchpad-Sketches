@@ -18,6 +18,9 @@ Friendly Launchpad – https://github.com/chrishulbert/friendly_launchpad
 Working with MacOs I'm using the following Open Source Toolchain
 mspgcc, mspdebug, ez430rf2500 – http://code.google.com/p/osx-launchpad/
 
+To get the USB Serial Port to run under OSX use the follwoing driver
+http://www.43oh.com/2011/10/launchpad-osx-usb-cdc-vcp-driver-released/
+
 MspGCC manual
 http://mspgcc.sourceforge.net/manual/
 
