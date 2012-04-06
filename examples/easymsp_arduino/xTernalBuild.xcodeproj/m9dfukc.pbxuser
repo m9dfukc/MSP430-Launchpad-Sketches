@@ -1,0 +1,498 @@
+// !$*UTF8*$!
+{
+	08FB7793FE84155DC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = upload;
+		activeTarget = D28A88AD04BDD90700651E21 /* build */;
+		addToTargets = (
+			D28A88AD04BDD90700651E21 /* build */,
+		);
+		codeSenseManager = 940890C8138C441A00BEE3EA /* Code sense */;
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXBookmarksDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXBookmarksDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					200,
+					200,
+					236,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXBookmarksDataSource_LocationID,
+					PBXBookmarksDataSource_NameID,
+					PBXBookmarksDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					314,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					836,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFindDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFindDataSource_LocationID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					200,
+					440,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFindDataSource_MessageID,
+					PBXFindDataSource_LocationID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXSymbolsDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXSymbolsDataSource_SymbolNameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					16,
+					200,
+					50,
+					366,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXSymbolsDataSource_SymbolTypeIconID,
+					PBXSymbolsDataSource_SymbolNameID,
+					PBXSymbolsDataSource_SymbolTypeID,
+					PBXSymbolsDataSource_ReferenceNameID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.XCSCMDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					402,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_SCM_ColumnID,
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					796,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 330186627;
+			PBXWorkspaceStateSaveDate = 330186627;
+		};
+		perUserProjectItems = {
+			9490C83C13AE458200823DAD /* PBXTextBookmark */ = 9490C83C13AE458200823DAD /* PBXTextBookmark */;
+			9490C83D13AE458200823DAD /* PBXTextBookmark */ = 9490C83D13AE458200823DAD /* PBXTextBookmark */;
+			9490C83E13AE458200823DAD /* PBXTextBookmark */ = 9490C83E13AE458200823DAD /* PBXTextBookmark */;
+			9490C83F13AE458200823DAD /* PBXTextBookmark */ = 9490C83F13AE458200823DAD /* PBXTextBookmark */;
+			9490C84013AE458200823DAD /* PBXTextBookmark */ = 9490C84013AE458200823DAD /* PBXTextBookmark */;
+			9490C84213AE458200823DAD /* PBXTextBookmark */ = 9490C84213AE458200823DAD /* PBXTextBookmark */;
+			9490C84313AE458200823DAD /* PBXTextBookmark */ = 9490C84313AE458200823DAD /* PBXTextBookmark */;
+			9490C84413AE458200823DAD /* PBXTextBookmark */ = 9490C84413AE458200823DAD /* PBXTextBookmark */;
+			9490C84513AE458200823DAD /* PBXTextBookmark */ = 9490C84513AE458200823DAD /* PBXTextBookmark */;
+			9490C84613AE458200823DAD /* PBXTextBookmark */ = 9490C84613AE458200823DAD /* PBXTextBookmark */;
+			9490C87C13AE48C700823DAD /* PBXTextBookmark */ = 9490C87C13AE48C700823DAD /* PBXTextBookmark */;
+			9490C87D13AE48C700823DAD /* PBXTextBookmark */ = 9490C87D13AE48C700823DAD /* PBXTextBookmark */;
+			9490C87E13AE48C700823DAD /* PBXTextBookmark */ = 9490C87E13AE48C700823DAD /* PBXTextBookmark */;
+			9490C87F13AE48C700823DAD /* PBXTextBookmark */ = 9490C87F13AE48C700823DAD /* PBXTextBookmark */;
+			9490C88013AE48C700823DAD /* PBXTextBookmark */ = 9490C88013AE48C700823DAD /* PBXTextBookmark */;
+			9490C88113AE48C700823DAD /* PBXTextBookmark */ = 9490C88113AE48C700823DAD /* PBXTextBookmark */;
+			9490C88313AE48C700823DAD /* PBXTextBookmark */ = 9490C88313AE48C700823DAD /* PBXTextBookmark */;
+		};
+		sourceControlManager = 940890C7138C441A00BEE3EA /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	940890C7138C441A00BEE3EA /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	940890C8138C441A00BEE3EA /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	940890C9138C44C400BEE3EA /* main.c */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1014, 714}}";
+			sepNavSelRange = "{383, 0}";
+			sepNavVisRange = "{0, 448}";
+		};
+	};
+	94089124138C49E200BEE3EA /* Makefile */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1014, 629}}";
+			sepNavSelRange = "{482, 2}";
+			sepNavVisRange = "{0, 648}";
+		};
+	};
+	944F933313AE3CE100CF8100 /* ADC10.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1831, 2727}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{2923, 352}";
+		};
+	};
+	944F933413AE3CE100CF8100 /* ADC12.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1014, 431}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 272}";
+		};
+	};
+	944F933513AE3CE100CF8100 /* Arduino.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1014, 783}}";
+			sepNavSelRange = "{417, 6}";
+			sepNavVisRange = "{97, 794}";
+			sepNavWindowFrame = "{{24, 52}, {1416, 826}}";
+		};
+	};
+	944F933613AE3CE100CF8100 /* BCS_Full.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1831, 1213}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{1260, 430}";
+		};
+	};
+	944F933713AE3CE100CF8100 /* BCS_Limited.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1831, 793}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{815, 430}";
+		};
+	};
+	944F933813AE3CE100CF8100 /* Comp.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1831, 823}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{941, 407}";
+		};
+	};
+	944F933913AE3CE100CF8100 /* Define.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1014, 1007}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 656}";
+		};
+	};
+	944F933A13AE3CE100CF8100 /* easymsp.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1014, 1701}}";
+			sepNavSelRange = "{320, 11}";
+			sepNavVisRange = "{1108, 354}";
+		};
+	};
+	944F933B13AE3CE100CF8100 /* Flash.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1831, 1690}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{2281, 330}";
+		};
+	};
+	944F933C13AE3CE100CF8100 /* GPIO.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1831, 2969}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{2692, 272}";
+		};
+	};
+	944F933D13AE3CE100CF8100 /* HardTime.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1831, 431}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 354}";
+		};
+	};
+	944F933E13AE3CE100CF8100 /* SoftComm.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1831, 3482}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{3452, 334}";
+		};
+	};
+	944F933F13AE3CE100CF8100 /* SoftTime.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1831, 1232}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{1342, 478}";
+		};
+	};
+	944F934013AE3CE100CF8100 /* System.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1831, 1277}}";
+			sepNavSelRange = "{1105, 0}";
+			sepNavVisRange = "{961, 624}";
+		};
+	};
+	9490C80113AE41EE00823DAD /* Arduino.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = Arduino.h;
+		path = libraries/Arduino.h;
+		sourceTree = "<group>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1014, 629}}";
+			sepNavSelRange = "{539, 3}";
+			sepNavVisRange = "{0, 872}";
+			sepNavWindowFrame = "{{15, 52}, {1416, 826}}";
+		};
+	};
+	9490C80C13AE425900823DAD /* easymsp.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = easymsp.h;
+		path = libraries/easymsp.h;
+		sourceTree = "<group>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1014, 1659}}";
+			sepNavSelRange = "{1100, 7}";
+			sepNavVisRange = "{0, 569}";
+			sepNavWindowFrame = "{{180, -130}, {1416, 826}}";
+		};
+	};
+	9490C83C13AE458200823DAD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 944F933313AE3CE100CF8100 /* ADC10.h */;
+		name = "ADC10.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 352;
+		vrLoc = 2923;
+	};
+	9490C83D13AE458200823DAD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 944F933413AE3CE100CF8100 /* ADC12.h */;
+		name = "ADC12.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 272;
+		vrLoc = 0;
+	};
+	9490C83E13AE458200823DAD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 944F933613AE3CE100CF8100 /* BCS_Full.h */;
+		name = "BCS_Full.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 430;
+		vrLoc = 1260;
+	};
+	9490C83F13AE458200823DAD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 944F933713AE3CE100CF8100 /* BCS_Limited.h */;
+		name = "BCS_Limited.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 430;
+		vrLoc = 815;
+	};
+	9490C84013AE458200823DAD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 944F933813AE3CE100CF8100 /* Comp.h */;
+		name = "Comp.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 407;
+		vrLoc = 941;
+	};
+	9490C84213AE458200823DAD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 944F933B13AE3CE100CF8100 /* Flash.h */;
+		name = "Flash.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 330;
+		vrLoc = 2281;
+	};
+	9490C84313AE458200823DAD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 944F933C13AE3CE100CF8100 /* GPIO.h */;
+		name = "GPIO.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 272;
+		vrLoc = 2692;
+	};
+	9490C84413AE458200823DAD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 944F933D13AE3CE100CF8100 /* HardTime.h */;
+		name = "HardTime.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 354;
+		vrLoc = 0;
+	};
+	9490C84513AE458200823DAD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 944F933E13AE3CE100CF8100 /* SoftComm.h */;
+		name = "SoftComm.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 334;
+		vrLoc = 3452;
+	};
+	9490C84613AE458200823DAD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 944F933F13AE3CE100CF8100 /* SoftTime.h */;
+		name = "SoftTime.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 478;
+		vrLoc = 1342;
+	};
+	9490C87C13AE48C700823DAD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9490C80C13AE425900823DAD /* easymsp.h */;
+		name = "easymsp.h: 94";
+		rLen = 7;
+		rLoc = 1100;
+		rType = 0;
+		vrLen = 569;
+		vrLoc = 0;
+	};
+	9490C87D13AE48C700823DAD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 94089124138C49E200BEE3EA /* Makefile */;
+		name = "Makefile: 24";
+		rLen = 2;
+		rLoc = 482;
+		rType = 0;
+		vrLen = 648;
+		vrLoc = 0;
+	};
+	9490C87E13AE48C700823DAD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 944F933913AE3CE100CF8100 /* Define.h */;
+		name = "Define.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 656;
+		vrLoc = 0;
+	};
+	9490C87F13AE48C700823DAD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9490C80113AE41EE00823DAD /* Arduino.h */;
+		name = "Arduino.h: 22";
+		rLen = 3;
+		rLoc = 539;
+		rType = 0;
+		vrLen = 872;
+		vrLoc = 0;
+	};
+	9490C88013AE48C700823DAD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 94C287041391541C00711BFE /* main.c */;
+		name = "main.c: 8";
+		rLen = 22;
+		rLoc = 85;
+		rType = 0;
+		vrLen = 248;
+		vrLoc = 0;
+	};
+	9490C88113AE48C700823DAD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 944F934013AE3CE100CF8100 /* System.h */;
+		name = "System.h: 42";
+		rLen = 0;
+		rLoc = 1019;
+		rType = 0;
+		vrLen = 755;
+		vrLoc = 527;
+	};
+	9490C88313AE48C700823DAD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 944F934013AE3CE100CF8100 /* System.h */;
+		name = "System.h: 53";
+		rLen = 0;
+		rLoc = 1105;
+		rType = 0;
+		vrLen = 624;
+		vrLoc = 961;
+	};
+	94C287041391541C00711BFE /* main.c */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.c;
+		path = main.c;
+		sourceTree = "<group>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1014, 629}}";
+			sepNavSelRange = "{85, 22}";
+			sepNavVisRange = "{0, 248}";
+		};
+	};
+	D28A88AD04BDD90700651E21 /* build */ = {
+		activeExec = 0;
+	};
+}

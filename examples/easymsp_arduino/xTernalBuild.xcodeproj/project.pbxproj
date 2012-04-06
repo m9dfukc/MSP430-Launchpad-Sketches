@@ -1,0 +1,172 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 45;
+	objects = {
+
+/* Begin PBXFileReference section */
+		940890C9138C44C400BEE3EA /* main.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		94089124138C49E200BEE3EA /* Makefile */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.make; path = Makefile; sourceTree = "<group>"; };
+		944F933313AE3CE100CF8100 /* ADC10.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ADC10.h; path = libraries/ADC10.h; sourceTree = "<group>"; };
+		944F933413AE3CE100CF8100 /* ADC12.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ADC12.h; path = libraries/ADC12.h; sourceTree = "<group>"; };
+		944F933513AE3CE100CF8100 /* Arduino.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Arduino.h; path = libraries/Arduino.h; sourceTree = "<group>"; };
+		944F933613AE3CE100CF8100 /* BCS_Full.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = BCS_Full.h; path = libraries/BCS_Full.h; sourceTree = "<group>"; };
+		944F933713AE3CE100CF8100 /* BCS_Limited.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = BCS_Limited.h; path = libraries/BCS_Limited.h; sourceTree = "<group>"; };
+		944F933813AE3CE100CF8100 /* Comp.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Comp.h; path = libraries/Comp.h; sourceTree = "<group>"; };
+		944F933913AE3CE100CF8100 /* Define.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Define.h; path = libraries/Define.h; sourceTree = "<group>"; };
+		944F933A13AE3CE100CF8100 /* easymsp.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = easymsp.h; path = libraries/easymsp.h; sourceTree = "<group>"; };
+		944F933B13AE3CE100CF8100 /* Flash.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Flash.h; path = libraries/Flash.h; sourceTree = "<group>"; };
+		944F933C13AE3CE100CF8100 /* GPIO.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = GPIO.h; path = libraries/GPIO.h; sourceTree = "<group>"; };
+		944F933D13AE3CE100CF8100 /* HardTime.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = HardTime.h; path = libraries/HardTime.h; sourceTree = "<group>"; };
+		944F933E13AE3CE100CF8100 /* SoftComm.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SoftComm.h; path = libraries/SoftComm.h; sourceTree = "<group>"; };
+		944F933F13AE3CE100CF8100 /* SoftTime.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SoftTime.h; path = libraries/SoftTime.h; sourceTree = "<group>"; };
+		944F934013AE3CE100CF8100 /* System.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = System.h; path = libraries/System.h; sourceTree = "<group>"; };
+		944F934113AE3CE100CF8100 /* USCI.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = USCI.h; path = libraries/USCI.h; sourceTree = "<group>"; };
+		944F934213AE3CE100CF8100 /* USI.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = USI.h; path = libraries/USI.h; sourceTree = "<group>"; };
+		944F934313AE3CE100CF8100 /* WDT.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = WDT.h; path = libraries/WDT.h; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		08FB7794FE84155DC02AAC07 /* xTernalBuild */ = {
+			isa = PBXGroup;
+			children = (
+				9412E4FA13911A25004608CB /* libraries */,
+				94089124138C49E200BEE3EA /* Makefile */,
+				940890C9138C44C400BEE3EA /* main.c */,
+			);
+			name = xTernalBuild;
+			sourceTree = "<group>";
+		};
+		9412E4FA13911A25004608CB /* libraries */ = {
+			isa = PBXGroup;
+			children = (
+				944F933313AE3CE100CF8100 /* ADC10.h */,
+				944F933413AE3CE100CF8100 /* ADC12.h */,
+				944F933513AE3CE100CF8100 /* Arduino.h */,
+				944F933613AE3CE100CF8100 /* BCS_Full.h */,
+				944F933713AE3CE100CF8100 /* BCS_Limited.h */,
+				944F933813AE3CE100CF8100 /* Comp.h */,
+				944F933913AE3CE100CF8100 /* Define.h */,
+				944F933B13AE3CE100CF8100 /* Flash.h */,
+				944F933C13AE3CE100CF8100 /* GPIO.h */,
+				944F933D13AE3CE100CF8100 /* HardTime.h */,
+				944F933E13AE3CE100CF8100 /* SoftComm.h */,
+				944F933F13AE3CE100CF8100 /* SoftTime.h */,
+				944F934013AE3CE100CF8100 /* System.h */,
+				944F934113AE3CE100CF8100 /* USCI.h */,
+				944F934213AE3CE100CF8100 /* USI.h */,
+				944F934313AE3CE100CF8100 /* WDT.h */,
+				944F933A13AE3CE100CF8100 /* easymsp.h */,
+			);
+			name = libraries;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXLegacyTarget section */
+		D28A88AD04BDD90700651E21 /* build */ = {
+			isa = PBXLegacyTarget;
+			buildArgumentsString = "$(ACTION) $SETTING";
+			buildConfigurationList = 1DEB918F08733D9F0010E9CD /* Build configuration list for PBXLegacyTarget "build" */;
+			buildPhases = (
+			);
+			buildToolPath = /usr/bin/make;
+			buildWorkingDirectory = "";
+			dependencies = (
+			);
+			name = build;
+			passBuildSettingsInEnvironment = 1;
+			productName = xTernalBuild;
+		};
+/* End PBXLegacyTarget section */
+
+/* Begin PBXProject section */
+		08FB7793FE84155DC02AAC07 /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = 1DEB919308733D9F0010E9CD /* Build configuration list for PBXProject "xTernalBuild" */;
+			compatibilityVersion = "Xcode 3.1";
+			developmentRegion = English;
+			hasScannedForEncodings = 1;
+			knownRegions = (
+				English,
+				Japanese,
+				French,
+				German,
+			);
+			mainGroup = 08FB7794FE84155DC02AAC07 /* xTernalBuild */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				D28A88AD04BDD90700651E21 /* build */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		1DEB919108733D9F0010E9CD /* build */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COPY_PHASE_STRIP = YES;
+				GCC_ENABLE_FIX_AND_CONTINUE = NO;
+				OTHER_CFLAGS = "";
+				OTHER_LDFLAGS = "";
+				PRODUCT_NAME = xTernalBuild;
+				SETTING = clean;
+			};
+			name = build;
+		};
+		1DEB919508733D9F0010E9CD /* build */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+			};
+			name = build;
+		};
+		94A2566213910E6D00884CF3 /* upload */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+			};
+			name = upload;
+		};
+		94A2566313910E6D00884CF3 /* upload */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COPY_PHASE_STRIP = YES;
+				GCC_ENABLE_FIX_AND_CONTINUE = NO;
+				OTHER_CFLAGS = "";
+				OTHER_LDFLAGS = "";
+				PRODUCT_NAME = xTernalBuild;
+				SETTING = "install clean";
+			};
+			name = upload;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1DEB918F08733D9F0010E9CD /* Build configuration list for PBXLegacyTarget "build" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1DEB919108733D9F0010E9CD /* build */,
+				94A2566313910E6D00884CF3 /* upload */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = build;
+		};
+		1DEB919308733D9F0010E9CD /* Build configuration list for PBXProject "xTernalBuild" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1DEB919508733D9F0010E9CD /* build */,
+				94A2566213910E6D00884CF3 /* upload */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = build;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 08FB7793FE84155DC02AAC07 /* Project object */;
+}
