@@ -16,7 +16,7 @@ Userguide – http://focus.ti.com/lit/ug/slau318/slau318.pdf
 MSP430x2xx Datasheet – http://www.ti.com/lit/ug/slau144h/slau144h.pdf
 
 Using the following (Arduino like) libraries
-EasyMSP – http://code.google.com/p/easymsp
+EasyMSP – http://code.google.com/p/easymsp (NOTE: NEEDS TO BE UPDATED)
 Friendly Launchpad – https://github.com/chrishulbert/friendly_launchpad
 
 Working with MacOs I'm using the following Open Source Toolchain
