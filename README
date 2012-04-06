@@ -6,6 +6,9 @@ http://invertednothing.com/
 If you are using this don't forget to setup the MSP430_DIR & MSPDEBUG_DIR 
 variables in the provided Makefiles!
 
+HowTo use the TI LaunchPad with XCode 
+embedXcode – http://embedxcode.weebly.com/
+
 Official TI MSP430 LaunchPad resources 
 Official homepage – http://e2e.ti.com/group/msp430launchpad/w/default.aspx
 Wiki – http://processors.wiki.ti.com/index.php/MSP430_LaunchPad_(MSP-EXP430G2)
